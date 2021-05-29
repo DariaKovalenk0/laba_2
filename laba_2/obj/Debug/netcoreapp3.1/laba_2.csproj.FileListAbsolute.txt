@@ -1,0 +1,12 @@
+C:\Users\Дария\source\repos\laba_2\laba_2\bin\Debug\netcoreapp3.1\laba_2.exe
+C:\Users\Дария\source\repos\laba_2\laba_2\bin\Debug\netcoreapp3.1\laba_2.deps.json
+C:\Users\Дария\source\repos\laba_2\laba_2\bin\Debug\netcoreapp3.1\laba_2.runtimeconfig.json
+C:\Users\Дария\source\repos\laba_2\laba_2\bin\Debug\netcoreapp3.1\laba_2.runtimeconfig.dev.json
+C:\Users\Дария\source\repos\laba_2\laba_2\bin\Debug\netcoreapp3.1\laba_2.dll
+C:\Users\Дария\source\repos\laba_2\laba_2\bin\Debug\netcoreapp3.1\laba_2.pdb
+C:\Users\Дария\source\repos\laba_2\laba_2\obj\Debug\netcoreapp3.1\laba_2.AssemblyInfoInputs.cache
+C:\Users\Дария\source\repos\laba_2\laba_2\obj\Debug\netcoreapp3.1\laba_2.AssemblyInfo.cs
+C:\Users\Дария\source\repos\laba_2\laba_2\obj\Debug\netcoreapp3.1\laba_2.csproj.CoreCompileInputs.cache
+C:\Users\Дария\source\repos\laba_2\laba_2\obj\Debug\netcoreapp3.1\laba_2.dll
+C:\Users\Дария\source\repos\laba_2\laba_2\obj\Debug\netcoreapp3.1\laba_2.pdb
+C:\Users\Дария\source\repos\laba_2\laba_2\obj\Debug\netcoreapp3.1\laba_2.genruntimeconfig.cache
